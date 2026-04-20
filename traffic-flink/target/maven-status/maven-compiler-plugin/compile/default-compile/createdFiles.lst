@@ -1,0 +1,3 @@
+com/traffic/flink/TrafficEvent.class
+com/traffic/flink/TrafficFlinkJob.class
+com/traffic/flink/sink/MySQLSink.class

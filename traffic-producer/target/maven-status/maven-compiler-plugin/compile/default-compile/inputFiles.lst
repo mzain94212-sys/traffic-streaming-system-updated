@@ -1,0 +1,6 @@
+/home/zain/traffic-producer/src/main/java/com/traffic/producer/TrafficProducerApplication.java
+/home/zain/traffic-producer/src/main/java/com/traffic/producer/config/KafkaConfig.java
+/home/zain/traffic-producer/src/main/java/com/traffic/producer/model/TrafficData.java
+/home/zain/traffic-producer/src/main/java/com/traffic/producer/service/KafkaProducerService.java
+/home/zain/traffic-producer/src/main/java/com/traffic/producer/service/TrafficGenerator.java
+/home/zain/traffic-producer/src/main/java/com/traffic/producer/service/TrafficScheduler.java

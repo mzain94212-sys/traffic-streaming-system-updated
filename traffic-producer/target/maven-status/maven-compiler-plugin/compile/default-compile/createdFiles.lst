@@ -1,0 +1,6 @@
+com/traffic/producer/config/KafkaConfig.class
+com/traffic/producer/TrafficProducerApplication.class
+com/traffic/producer/service/TrafficGenerator.class
+com/traffic/producer/model/TrafficData.class
+com/traffic/producer/service/KafkaProducerService.class
+com/traffic/producer/service/TrafficScheduler.class
