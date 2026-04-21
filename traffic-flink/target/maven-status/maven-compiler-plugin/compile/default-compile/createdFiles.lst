@@ -1,3 +1,5 @@
 com/traffic/flink/TrafficEvent.class
 com/traffic/flink/TrafficFlinkJob.class
+com/traffic/flink/model/RoadAnalytics.class
 com/traffic/flink/sink/MySQLSink.class
+com/traffic/flink/TrafficFlinkJob$1.class

@@ -1,3 +1,4 @@
-/home/zain/traffic-flink/src/main/java/com/traffic/flink/sink/MySQLSink.java
-/home/zain/traffic-flink/src/main/java/com/traffic/flink/TrafficEvent.java
-/home/zain/traffic-flink/src/main/java/com/traffic/flink/TrafficFlinkJob.java
+/home/zain/traffic-streaming-system/traffic-flink/src/main/java/com/traffic/flink/sink/MySQLSink.java
+/home/zain/traffic-streaming-system/traffic-flink/src/main/java/com/traffic/flink/TrafficEvent.java
+/home/zain/traffic-streaming-system/traffic-flink/src/main/java/com/traffic/flink/TrafficFlinkJob.java
+/home/zain/traffic-streaming-system/traffic-flink/src/main/java/com/traffic/flink/model/RoadAnalytics.java
